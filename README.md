@@ -4,4 +4,4 @@ Welcome to our collection of Python projects! This repository houses a variety o
 
 ## Project Structure
 
-The repository is organized into folders, each representing a separate Python project. Inside each project folder, you'll find the project-specific files and documentation. Below is a brief overview of the structure:
+The repository is organized into folders, each representing a separate Python project. Inside each project folder, you'll find the project-specific files.
